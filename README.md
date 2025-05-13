@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:heldermarques.pt@gmail.com"><img src="https://img.shields.io/badge/email-heldermarques.pt@gmail.com-8A2BE2?style=flat-square&logo=gmail" /></a>
+  <a href="mailto:eldergaw@gmail.com"><img src="https://img.shields.io/badge/email-heldermarques.pt@gmail.com-8A2BE2?style=flat-square&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/heldermarquespt" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-HelderMarques-0A66C2?style=flat-square&logo=linkedin" /></a>
   <img src="https://komarev.com/ghpvc/?username=0Trapz&color=blueviolet" alt="Visualizações de Perfil"/>
 </p>
