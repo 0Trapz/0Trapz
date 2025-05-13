@@ -69,7 +69,7 @@ Gosto de transformar ideias em produtos digitais robustos, modernos e fáceis de
 <h2 align="center">📫 Contacto</h2>
 
 <p align="center">
-  <a href="mailto:heldermarques.pt@gmail.com">heldermarques.pt@gmail.com</a> <br>
+  <a href="mailto:heldermarques.pt@gmail.com">eldergaw@gmail.com</a> <br>
   <a href="https://www.linkedin.com/in/heldermarquespt" target="_blank">LinkedIn</a>
 </p>
 
