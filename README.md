@@ -53,7 +53,7 @@
 
 ## 📫 Contacto
 
-- <a href="mailto:heldermarques.pt@gmail.com">heldermarques.pt@gmail.com</a>
+- <a href="mailto:heldermarques.pt@gmail.com">eldergaw@gmail.com</a>
 - <a href="https://www.linkedin.com/in/heldermarquespt" target="_blank">LinkedIn</a>
 
 ---
