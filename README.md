@@ -7,10 +7,10 @@
 
 <div align="center">
   <a href="mailto:eldergaw@gmail.com">
-    <img src="https://img.shields.io/badge/Email-eldergaw%40gmail.com-DD6387?style=for-the-badge&logo=gmail&logoColor=white&labelColor=673AB7"/>
+    <img src="https://img.shields.io/badge/Email-eldergaw%40gmail.com-DD6387?style=for-the-badge&logo=gmail&logoColor=white&labelColor=98c548"/>
   </a>
   <a href="https://www.linkedin.com/in/hélderlmarques" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Hélder_Marques-DD6387?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=673AB7"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Hélder_Marques-DD6387?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=98c548"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=0Trapz&style=for-the-badge&color=98c548" alt="Profile Views"/>
 </div>
