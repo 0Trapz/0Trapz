@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6&height=300&section=header&text=Hélder%20Marques&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20UI/UX%20Enthusiast&descAlignY=60&descSize=22">
 
   <!-- Animated Introduction -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=673AB7&center=true&vCenter=true&random=false&width=600&height=80&lines=Transforming+Ideas+Into+Digital+Solutions;Creating+Robust+%26+Modern+Web+Applications;Passionate+About+UI%2FUX+Design;Building+Tomorrow's+Technology+Today" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=98c548&center=true&vCenter=true&random=false&width=600&height=80&lines=Transforming+Ideas+Into+Digital+Solutions;Creating+Robust+%26+Modern+Web+Applications;Passionate+About+UI%2FUX+Design;Building+Tomorrow's+Technology+Today" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
