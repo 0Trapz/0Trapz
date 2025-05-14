@@ -152,8 +152,8 @@
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=0Trapz&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=DD6387&icon_color=DD6387&text_color=A9FEF7&hide=prs" alt="Helder Marques' GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0Trapz&langs_count=6&layout=compact&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=DD6387&text_color=A9FEF7" alt="Helder Marques' Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=0Trapz&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=DD6387&icon_color=DD6387&text_color=A9FEF7&hide=prs" alt="Hélder Marques' GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0Trapz&langs_count=6&layout=compact&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=DD6387&text_color=A9FEF7" alt="Hélder Marques' Top Languages" />
 </div>
 
 <div align="center">
@@ -261,5 +261,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=170&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=42&fontAlignY=80" />
   <br>
-  <sub>Last updated: May 13, 2025 • Created with ❤️ by Helder Marques</sub>
+  <sub>Last updated: May 13, 2025 • Created with ❤️ by Hélder Marques</sub>
 </div>
