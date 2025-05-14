@@ -227,7 +227,7 @@
   <a href="mailto:eldergaw@gmail.com">
     <img src="https://img.shields.io/badge/Email-eldergaw%40gmail.com-DD6387?style=for-the-badge&logo=gmail&logoColor=white&labelColor=673AB7"/>
   </a>
-  <a href="https://www.linkedin.com/in/heldermarquespt" target="_blank">
+  <a href="https://www.linkedin.com/in/hélderlmarques" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Helder_Marques-DD6387?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=673AB7"/>
   </a>
 </div>
