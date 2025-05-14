@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/hélderlmarques" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Hélder_Marques-DD6387?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=673AB7"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=0Trapz&style=for-the-badge&color=673AB7" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=0Trapz&style=for-the-badge&color=98c548" alt="Profile Views"/>
 </div>
 
 <br>
