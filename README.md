@@ -1,253 +1,151 @@
 ```javascript
-// ============================================
-// HÉLDER MARQUES - DEVELOPER PORTFOLIO
-// ============================================
+// 🎨 HÉLDER MARQUES - DEVELOPER PORTFOLIO
+// ═══════════════════════════════════════════════════════
 
-const developer = {
+const 🧑‍💻 developer = {
   name: "Hélder Marques",
-  role: "Full Stack Developer & UI/UX Designer",
-  location: "Portugal 🇵🇹",
-  mission: "Building exceptional digital products",
-  email: "eldergaw@gmail.com",
-  website: "piteucerto.site",
+  title: "Full Stack Developer",
+  subtitle: "UI/UX Designer | Digital Creator",
+  location: "🇵🇹 Portugal",
+  focus: "Building beautiful, functional digital products",
   
-  expertise: {
-    backend: ["PHP", "Laravel", "MySQL", "RESTful APIs", "Security"],
-    frontend: ["HTML5", "CSS3", "Bootstrap 5", "JavaScript", "Responsive Design"],
-    devops: ["XAMPP", "Docker", "Linux", "Git", "Database Management"],
-    design: ["UI/UX Design", "Figma", "Prototyping", "User Research"]
+  🎯 expertise: {
+    backend: ["PHP", "Laravel", "MySQL", "APIs", "Security"],
+    frontend: ["HTML5", "CSS3", "Bootstrap", "JavaScript"],
+    tools: ["Git", "Docker", "XAMPP", "Figma"],
+    approach: "Clean code • User-focused • Production-ready"
+  },
+  
+  📧 contact: {
+    email: "eldergaw@gmail.com",
+    website: "piteucerto.site",
+    linkedin: "linkedin.com/in/hélderlmarques",
+    github: "@0Trapz"
   }
 };
 ```
 
 ---
 
-## 🍽️ FLAGSHIP PROJECT
+## 🌟 FEATURED PROJECT
 
 ```javascript
-const PiteuCerto = {
+// ⭐ PITEUCERTO - Professional Services Platform
+// ─────────────────────────────────────────────────
+
+const 🍽️ flagship = {
+  
   name: "PITEUCERTO",
-  tagline: "The Complete Modern Restaurant Management System",
-  description: "A production-grade platform for managing restaurants from A to Z",
-  liveUrl: "https://piteucerto.site",
-  status: "Production Ready",
+  tagline: "🚀 Modern Management Platform",
+  website: "https://piteucerto.site",
+  status: "🟢 Production Ready",
   
-  // Core Features
+  // ✨ What it does
+  highlights: {
+    🎯 purpose: "Complete platform for restaurant operations",
+    💼 users: ["Managers", "Staff", "Admins"],
+    🌍 reach: "Multiple restaurants",
+    📊 impact: "Streamlines daily operations"
+  },
+
+  // 🔧 Built with Modern Tech
+  stack: {
+    🔴 backend: "PHP • Custom Architecture",
+    🔵 frontend: "Bootstrap 5 • Responsive Design",
+    🟢 database: "MySQL • Optimized Queries",
+    🟡 tools: "Git • Continuous Development"
+  },
+
+  // 💎 Core Capabilities
   features: {
-    management: [
-      "Restaurant Configuration & Setup",
-      "Table Management & Layout",
-      "Menu & Dish Management",
-      "Staff & Employee Management",
-      "User Roles & Permissions"
-    ],
-    operations: [
-      "Order Taking System",
-      "Kitchen Display System (KDS)",
-      "Table Tracking & Status",
-      "Real-time Order Updates",
-      "Bill & Payment Management"
-    ],
-    business: [
-      "Subscription Plans & Billing",
-      "Analytics Dashboard",
-      "Revenue Reports",
-      "Performance Metrics",
-      "Admin Control Panel"
-    ]
+    📋 operations: "Order management, table tracking, staff coordination",
+    📊 analytics: "Real-time insights and performance tracking",
+    💰 billing: "Subscription management and reporting",
+    🔐 security: "Enterprise-grade protection",
+    👥 multiuser: "Role-based access control"
   },
 
-  // Technology Stack
-  technology: {
-    backend: {
-      language: "PHP",
-      architecture: "Custom MVC",
-      database: "MySQL (piteucerto)",
-      authentication: "Session-based with role management",
-      security: [
-        "Password hashing",
-        "Input validation",
-        "SQL injection protection",
-        "CSRF tokens"
-      ]
-    },
-    
-    frontend: {
-      framework: "Bootstrap 5",
-      fonts: ["Playfair Display", "Plus Jakarta Sans"],
-      icons: "FontAwesome 6.4.0",
-      responsive: "Mobile-first design"
-    },
-    
-    infrastructure: {
-      environment: "XAMPP",
-      webServer: "Apache2",
-      database: "MySQL 5.7+",
-      fileSystem: "Linux"
-    }
+  // 🏆 My Contribution
+  myRole: {
+    🏗️ architecture: "Full system design",
+    💻 development: "Complete implementation",
+    🎨 design: "UI/UX craftsmanship",
+    ⚙️ operations: "Deployment & maintenance"
   },
 
-  // Project Structure
-  projectStructure: {
-    admin: "Subscription and billing management",
-    gerente: "Manager dashboard and operations",
-    mesa: "Waiter table management interface",
-    cozinha: "Kitchen display and order system",
-    caixa: "Cashier and payment processing",
-    includes: "Database connections and utilities",
-    interfaces: "UI components and templates",
-    css: "69 stylesheets for responsive design",
-    js: "Client-side logic and interactions",
-    img: "Assets, logo, and images"
-  },
-
-  // Code Metrics
-  codeQuality: {
-    phpFiles: 92,
-    cssFiles: 69,
-    jsFiles: 15,
-    totalLines: "15000+",
-    testCoverage: "Production tested",
-    architecture: "MVC with separation of concerns"
-  },
-
-  // My Roles
-  myOwnership: {
-    architect: "Designed entire system architecture",
-    developer: "Implemented all backend and frontend layers",
-    designer: "Crafted every UI component and interface",
-    devops: "Managed deployment and infrastructure",
-    productOwner: "Defined features and user workflows"
-  },
-
-  // Database
-  database: {
-    engine: "MySQL",
-    location: "127.0.0.1",
-    name: "piteucerto",
-    tables: [
-      "users (staff and admin accounts)",
-      "restaurants (business information)",
-      "tables (table configurations)",
-      "dishes (menu items)",
-      "orders (customer orders)",
-      "subscriptions (billing plans)",
-      "roles (permission system)",
-      "invoices (billing records)"
-    ]
-  },
-
-  version: "1.0.0",
-  lastUpdated: "2025-09-26",
-  isProduction: true
+  version: "1.0+",
+  production: true
 };
 ```
 
 ---
 
-## 📊 GITHUB ACTIVITY
+## 🛠️ TECHNICAL SKILLS
 
 ```javascript
-const githubStats = {
-  username: "0Trapz",
-  repositories: "Multiple production projects",
-  primaryLanguages: ["PHP", "JavaScript", "CSS", "SQL"],
+const 💪 mySkills = {
   
-  stats: {
-    experience: "Full-stack development",
-    commits: "Continuous development",
-    contributions: "Active contributor",
-    repositories: "Open source & private"
-  }
-};
-```
-
----
-
-## 🛠️ COMPLETE SKILL SET
-
-```javascript
-const skills = {
-  
+  // 🔴 BACKEND MASTERY
   backend: {
-    php: {
-      level: "Expert",
-      experience: "5+ years",
-      expertise: [
-        "Object-oriented programming",
-        "MVC architecture",
-        "Database design",
-        "API development",
-        "Security best practices"
-      ]
-    },
-    
-    databases: {
-      mysql: {
-        level: "Advanced",
-        skills: ["Schema design", "Query optimization", "Indexing", "Backups"]
-      }
-    }
+    php: "🔥 Expert",
+    architecture: "MVC • Clean Code • Security-first",
+    databases: "Design • Optimization • Performance",
+    apis: "RESTful • Authentication • Integration"
   },
 
+  // 🔵 FRONTEND EXCELLENCE  
   frontend: {
-    html5: "Expert",
-    css3: "Expert",
-    javascript: "Advanced",
-    bootstrap: "Expert",
-    responsive_design: "Expert"
+    html: "🎯 Expert",
+    css: "🎨 Advanced • Responsive • Modern",
+    javascript: "✨ Intermediate • DOM • Events",
+    frameworks: "Bootstrap 5 • Component-based"
   },
 
+  // 🟢 DEVOPS & TOOLS
   devops: {
-    xampp: "Expert",
-    docker: "Intermediate",
-    git: "Advanced",
-    linux: "Intermediate"
+    version_control: "Git • GitHub • Workflows",
+    deployment: "XAMPP • Linux • Configuration",
+    tools: "Docker • Figma • Development Tools"
   },
 
+  // 🟡 DESIGN THINKING
   design: {
-    uiux: "Advanced",
-    figma: "Advanced",
-    prototyping: "Advanced",
-    user_research: "Advanced"
+    uiux: "User Research • Prototyping • Testing",
+    figma: "Design Systems • Wireframes • Components",
+    philosophy: "User First • Accessibility • Beauty"
   }
-
 };
 ```
 
 ---
 
-## 🎯 WHAT I BUILD
+## 🎯 HOW I WORK
 
 ```javascript
-const buildingApproach = {
+const 🔄 myApproach = {
   
   process: [
-    "Understand the problem deeply",
-    "Design elegant solutions",
-    "Write clean, maintainable code",
-    "Focus on user experience",
-    "Test thoroughly",
-    "Deploy with confidence"
+    "🔍 Understand the problem",
+    "✏️ Design elegant solutions",
+    "⚙️ Build with quality",
+    "🧪 Test thoroughly",
+    "🚀 Deploy confidently"
   ],
 
   philosophy: [
-    "Code quality over speed",
-    "User experience first",
-    "Security by default",
-    "Scalability matters",
-    "Documentation is essential",
-    "Continuous improvement"
+    "💡 Code quality over speed",
+    "👥 User experience first",
+    "🔒 Security by default",
+    "⚡ Performance matters",
+    "📖 Clean documentation"
   ],
 
   values: {
-    quality: "Every detail matters",
+    quality: "Every detail counts",
     reliability: "Production-ready always",
-    performance: "Fast and optimized",
-    security: "Protected and safe",
-    usability: "Intuitive and beautiful"
+    creativity: "Innovative solutions",
+    teamwork: "Collaborative approach"
   }
-
 };
 ```
 
@@ -256,99 +154,75 @@ const buildingApproach = {
 ## 📈 CURRENT FOCUS
 
 ```javascript
-const currentWork = {
+const 🎓 learning = {
   
-  project: "PITEUCERTO",
-  focus: [
-    "Scaling platform for more restaurants",
-    "Adding advanced analytics",
-    "Improving performance",
-    "Exploring new technologies",
-    "Enhancing user experience"
+  growing: [
+    "🚀 Advanced web technologies",
+    "📱 Mobile development",
+    "🤖 AI & Machine Learning basics",
+    "☁️ Cloud infrastructure"
   ],
 
   exploring: [
-    "Real-time collaboration features",
-    "Mobile app development",
-    "AI-powered insights",
-    "Advanced reporting"
+    "Real-time features",
+    "Performance optimization",
+    "User analytics",
+    "Advanced security"
   ],
 
-  nextSteps: [
-    "Scale to 100+ restaurants",
-    "Add mobile applications",
-    "Implement AI features",
-    "Expand to new markets"
-  ]
-
+  passion: "Building products that solve real problems ❤️"
 };
 ```
 
 ---
 
-## 📬 LET'S CONNECT
+## 📬 LET'S WORK TOGETHER
 
 ```javascript
-const contactInfo = {
+const 💬 connect = {
   
-  email: {
-    address: "eldergaw@gmail.com",
-    subject: "Let's build something great!"
-  },
+  open_to: [
+    "🤝 Collaboration on meaningful projects",
+    "💡 Discussing innovative ideas",
+    "🔧 Building digital solutions",
+    "🎯 Solving complex problems"
+  ],
 
-  social: {
-    linkedin: "https://www.linkedin.com/in/hélderlmarques",
-    github: "https://github.com/0Trapz",
-    website: "https://piteucerto.site"
-  },
-
-  interests: [
-    "Collaboration on meaningful projects",
-    "Discussing innovative ideas",
-    "Building digital products",
-    "Solving complex problems",
-    "Creating great user experiences"
-  ]
-
-};
-```
-
----
-
-## 💻 STATS & METRICS
-
-```javascript
-const stats = {
-  
-  piteucerto: {
-    codeQuality: "Production Grade",
-    users: "Multiple restaurants",
-    uptime: "99.9%",
-    latency: "Sub-second responses",
-    securityGrade: "Enterprise Level"
-  },
-
-  experience: {
-    yearsInDevelopment: "5+",
-    projectsCompleted: "10+",
-    usersServed: "1000+",
-    linesOfCode: "100000+"
+  reach_out: {
+    📧 email: "eldergaw@gmail.com",
+    🌐 website: "piteucerto.site",
+    💼 linkedin: "linkedin.com/in/hélderlmarques",
+    💻 github: "github.com/0Trapz"
   }
-
 };
 ```
 
 ---
 
+## 📊 GITHUB STATS
+
 ```javascript
-// Footer Message
-console.log("Built with passion, code, and endless creativity");
-console.log("© 2026 Hélder Marques | All rights reserved");
-console.log("═════════════════════════════════════════════");
+const 📈 stats = {
+  🟢 status: "Active Developer",
+  💻 experience: "Full-Stack Development",
+  🎯 focus: "Quality & User Experience",
+  📦 repositories: "Multiple projects"
+};
 ```
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0Trapz&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=21262d&text_color=c9d1d9&icon_color=1f6feb&title_color=1f6feb&hide=prs&hide_border=true&custom_title=GitHub%20Activity)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0Trapz&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&hide=prs&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0Trapz&layout=compact&theme=github_dark&bg_color=0d1117&border_color=21262d&text_color=c9d1d9&title_color=1f6feb&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0Trapz&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&title_color=58a6ff&hide_border=true&langs_count=6)
+
+---
+
+```javascript
+// ═══════════════════════════════════════════════════════
+// 🎨 Built with passion • Code • Creativity
+// © 2026 Hélder Marques | All Rights Reserved
+// ═══════════════════════════════════════════════════════
+
+console.log("✨ Building the future, one project at a time ✨");
+```
