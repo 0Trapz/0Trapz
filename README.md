@@ -1,150 +1,141 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=vape&color=0:667eea,100:764ba2&height=250&section=header&text=Hélder%20Marques&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%26%20UI/UX%20Enthusiast&descAlignY=55&descSize=18&descColor=ffffff">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=667eea:764ba2&height=220&section=header&text=Hélder%20Marques&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Header" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=4000&pause=1000&color=667eea&center=true&vCenter=true&random=false&width=700&height=60&lines=Building+Digital+Solutions+That+Matter;Full+Stack+Developer+with+Design+Passion;Turning+Ideas+Into+Elegant+Code" alt="Typing Animation" />
+  <b>Full Stack Developer 💻 | UI/UX Enthusiast 🎨 | Tech Innovator 🚀</b>
+  <br><br>
+  Building elegant digital solutions with passion and precision
 </p>
 
 <div align="center">
   <a href="mailto:eldergaw@gmail.com">
-    <img src="https://img.shields.io/badge/Email-eldergaw%40gmail.com-667eea?style=flat-square&logo=gmail&logoColor=white&labelColor=764ba2"/>
+    <img src="https://img.shields.io/badge/📧_Email-eldergaw%40gmail.com-667eea?style=flat&labelColor=764ba2" alt="Email"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/hélderlmarques" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Hélder_Marques-667eea?style=flat-square&logo=linkedin&logoColor=white&labelColor=764ba2"/>
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Hélder%20Marques-667eea?style=flat&labelColor=764ba2" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/0Trapz">
-    <img src="https://img.shields.io/badge/GitHub-0Trapz-667eea?style=flat-square&logo=github&logoColor=white&labelColor=764ba2"/>
+    <img src="https://img.shields.io/badge/🐙_GitHub-0Trapz-667eea?style=flat&labelColor=764ba2" alt="GitHub"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=0Trapz&style=flat-square&color=667eea&label=Views" alt="Profile Views" />
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science student** passionate about creating impactful digital solutions. With expertise in full-stack development and a strong focus on UI/UX design, I transform complex ideas into elegant, user-friendly applications.
+Computer Science student passionate about creating impactful digital solutions. Specialized in full-stack web development with a strong focus on UI/UX design. I transform complex ideas into elegant, scalable, and user-friendly applications.
 
-- 🎓 **Education**: Computer Science Student
-- 💼 **Specialization**: Full-Stack Web Development & UI/UX Design
-- 🚀 **Focus**: Building scalable, maintainable, and beautiful applications
-- 🎨 **Passion**: Bridging the gap between design and functionality
-- 🌐 **Philosophy**: Technology should enhance lives, not complicate them
+- 🎓 **Computer Science Student**
+- 💼 **Full-Stack Web Development Expert**
+- 🎨 **UI/UX Design Enthusiast**
+- 🚀 **Building solutions that matter**
+- 🌐 **Philosophy**: Technology should enhance lives
 
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <h3>Frontend</h3>
-        <div>
-          <img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" alt="JavaScript"/>
-          <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5"/>
-          <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3"/>
-          <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue.js"/>
-        </div>
-      </td>
-      <td align="center" width="25%">
-        <h3>Backend</h3>
-        <div>
-          <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP"/>
-          <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel"/>
-          <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/>
-          <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"/>
-        </div>
-      </td>
-      <td align="center" width="25%">
-        <h3>DevOps & Tools</h3>
-        <div>
-          <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker"/>
-          <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/>
-          <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux"/>
-          <img src="https://skillicons.dev/icons?i=bash" width="45" height="45" alt="Bash"/>
-        </div>
-      </td>
-      <td align="center" width="25%">
-        <h3>Design</h3>
-        <div>
-          <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma"/>
-          <img src="https://skillicons.dev/icons?i=ps" width="45" height="45" alt="Photoshop"/>
-          <img src="https://skillicons.dev/icons?i=ai" width="45" height="45" alt="Illustrator"/>
-        </div>
-      </td>
-    </tr>
-  </table>
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+### Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+
 </div>
 
 ---
 
-## 🎯 Featured Projects
+## 📂 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/0Trapz/PiteuCerto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0Trapz&repo=PiteuCerto&theme=radical&icon_color=667eea&text_color=ffffff&bg_color=0d1117&title_color=667eea&border_color=764ba2&border_radius=10" alt="PiteuCerto"/>
-  </a>
-</div>
 
-> 💡 More projects coming soon. Stay tuned for exciting updates!
+### 🎯 **PiteuCerto**
+A robust full-stack application for managing professional services.
+- Built with Laravel, Vue.js, and MySQL
+- Focus on user experience and performance
+- [View Repository](https://github.com/0Trapz/PiteuCerto)
+
+</div>
 
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0Trapz&show_icons=true&theme=radical&icon_color=667eea&text_color=ffffff&bg_color=0d1117&title_color=667eea&border_color=764ba2&border_radius=10&hide=prs,contribs" height="180" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Trapz&layout=compact&theme=radical&icon_color=667eea&text_color=ffffff&bg_color=0d1117&title_color=667eea&border_color=764ba2&border_radius=10&langs_count=8" height="180" alt="Top Languages" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0Trapz&show_icons=true&theme=dark&bg_color=0d1117&border_color=667eea&text_color=ffffff&icon_color=764ba2&title_color=667eea&hide_border=false&custom_title=GitHub%20Statistics)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0Trapz&theme=react-dark&bg_color=0d1117&color=667eea&line=764ba2&point=667eea&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0Trapz&layout=compact&theme=dark&bg_color=0d1117&border_color=667eea&text_color=ffffff&title_color=667eea&hide_border=false)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=0Trapz&theme=dark&background=0d1117&stroke=764ba2&fire=667eea&ring=667eea&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=667eea&sideLabels=667eea&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🎓 Currently Learning
+## 🎓 Skills & Proficiency
 
 | Technology | Proficiency |
 |:---:|:---:|
-| **Laravel** | ![80%](https://progress-bar.dev/80/?width=120&color=667eea&title=80%25) |
-| **Vue.js** | ![70%](https://progress-bar.dev/70/?width=120&color=667eea&title=70%25) |
-| **React** | ![60%](https://progress-bar.dev/60/?width=120&color=667eea&title=60%25) |
-| **UI/UX Design** | ![80%](https://progress-bar.dev/80/?width=120&color=667eea&title=80%25) |
-| **Docker** | ![65%](https://progress-bar.dev/65/?width=120&color=667eea&title=65%25) |
+| **Laravel** | ⭐⭐⭐⭐ |
+| **Vue.js** | ⭐⭐⭐⭐ |
+| **PHP** | ⭐⭐⭐⭐ |
+| **JavaScript** | ⭐⭐⭐⭐ |
+| **UI/UX Design** | ⭐⭐⭐⭐ |
+| **MySQL** | ⭐⭐⭐ |
+| **Docker** | ⭐⭐⭐ |
+| **React** | ⭐⭐⭐ |
 
 ---
 
-## 📬 Get In Touch
+## 💡 What I'm Currently Working On
 
-I'm always open to collaboration and interesting projects. Feel free to reach out!
+- 🚀 Advancing full-stack development skills
+- 📱 Exploring modern web frameworks and best practices
+- 🎨 Improving UI/UX design capabilities
+- 🐳 Deepening Docker and DevOps knowledge
+- 🌐 Building scalable web applications
+
+---
+
+## 📬 Let's Connect
+
+I'm always interested in collaborating on exciting projects and discussing innovative ideas.
 
 <div align="center">
-  <a href="mailto:eldergaw@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send%20a%20Message-667eea?style=for-the-badge&logo=gmail&logoColor=white&labelColor=764ba2"/>
-  </a>
-  <a href="https://www.linkedin.com/in/hélderlmarques" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-667eea?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=764ba2"/>
-  </a>
-  <a href="https://github.com/0Trapz">
-    <img src="https://img.shields.io/badge/GitHub-View%20My%20Work-667eea?style=for-the-badge&logo=github&logoColor=white&labelColor=764ba2"/>
-  </a>
+
+[![Email](https://img.shields.io/badge/Email%20Me-667eea?style=for-the-badge&logo=gmail&logoColor=white&labelColor=764ba2)](mailto:eldergaw@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-667eea?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=764ba2)](https://www.linkedin.com/in/hélderlmarques)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-667eea?style=for-the-badge&logo=github&logoColor=white&labelColor=764ba2)](https://github.com/0Trapz)
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=667eea:764ba2&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=667eea:764ba2&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=70" alt="Footer" />
   
-  <p>
-    <sub><strong>Made with ❤️ by Hélder Marques</strong></sub>
-    <br>
-    <sub>Last updated: April 2026 • Always evolving 🚀</sub>
-  </p>
+  <p><strong>Made with ❤️ by Hélder Marques</strong></p>
+  <p><sub>Last updated: April 2026 • Continuously evolving 🚀</sub></p>
 </div>
