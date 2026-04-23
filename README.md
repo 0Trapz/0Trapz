@@ -1,265 +1,150 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6&height=300&section=header&text=Hélder%20Marques&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20UI/UX%20Enthusiast&descAlignY=60&descSize=22">
-
-  <!-- Animated Introduction -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=98c548&center=true&vCenter=true&random=false&width=600&height=80&lines=Transforming+Ideas+Into+Digital+Solutions;Creating+Robust+%26+Modern+Web+Applications;Passionate+About+UI%2FUX+Design;Building+Tomorrow's+Technology+Today" alt="Typing SVG" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=vape&color=0:667eea,100:764ba2&height=250&section=header&text=Hélder%20Marques&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%26%20UI/UX%20Enthusiast&descAlignY=55&descSize=18&descColor=ffffff">
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=4000&pause=1000&color=667eea&center=true&vCenter=true&random=false&width=700&height=60&lines=Building+Digital+Solutions+That+Matter;Full+Stack+Developer+with+Design+Passion;Turning+Ideas+Into+Elegant+Code" alt="Typing Animation" />
+</p>
 
 <div align="center">
   <a href="mailto:eldergaw@gmail.com">
-    <img src="https://img.shields.io/badge/Email-eldergaw%40gmail.com-DD6387?style=for-the-badge&logo=gmail&logoColor=white&labelColor=98c548"/>
+    <img src="https://img.shields.io/badge/Email-eldergaw%40gmail.com-667eea?style=flat-square&logo=gmail&logoColor=white&labelColor=764ba2"/>
   </a>
   <a href="https://www.linkedin.com/in/hélderlmarques" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Hélder_Marques-DD6387?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=98c548"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Hélder_Marques-667eea?style=flat-square&logo=linkedin&logoColor=white&labelColor=764ba2"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=0Trapz&style=for-the-badge&color=98c548" alt="Profile Views"/>
+  <a href="https://github.com/0Trapz">
+    <img src="https://img.shields.io/badge/GitHub-0Trapz-667eea?style=flat-square&logo=github&logoColor=white&labelColor=764ba2"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=0Trapz&style=flat-square&color=667eea&label=Views" alt="Profile Views" />
 </div>
 
-<br>
+---
 
-<!-- Animated Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="75%">
-</div>
+## 👨‍💻 About Me
 
-<!-- About Me Section with Particle Animation -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35px">
-  <span> ABOUT ME </span>
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35px">
-</h2>
+I'm a **Computer Science student** passionate about creating impactful digital solutions. With expertise in full-stack development and a strong focus on UI/UX design, I transform complex ideas into elegant, user-friendly applications.
 
-<div align="center">
-  <img align="right" width="400" src="https://github.com/0Trapz/0Trapz/raw/main/assets/coding-animation.gif" onerror="this.onerror=null;this.src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif';"/>
-  
-  <p align="left" style="max-width: 500px; margin-right: 15px;">
-    <b>Computer science student passionate about web development, automation and UI/UX design.</b>
-    <br><br>
-    I believe technology can (and should!) simplify people's lives. I enjoy transforming innovative ideas into robust, modern and user-friendly digital products.
-    <br><br>
-    🎓 Currently studying Computer Science<br>
-    💻 Working on full-stack web applications<br>
-    🌐 Building useful solutions to real-world problems<br>
-    🎨 Constantly improving my UI/UX design skills<br>
-  </p>
-</div>
+- 🎓 **Education**: Computer Science Student
+- 💼 **Specialization**: Full-Stack Web Development & UI/UX Design
+- 🚀 **Focus**: Building scalable, maintainable, and beautiful applications
+- 🎨 **Passion**: Bridging the gap between design and functionality
+- 🌐 **Philosophy**: Technology should enhance lives, not complicate them
 
-<br clear="both">
+---
 
-<!-- Animated Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="75%">
-</div>
-
-<!-- Tech Stack with Hover Effects -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px"> 
-  TECHNOLOGIES & TOOLS 
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px">
-</h2>
+## 🛠️ Tech Stack
 
 <div align="center">
   <table>
     <tr>
-      <td valign="top" width="33%">
-        <h3 align="center">Frontend</h3>
-        <div align="center">
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-            <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-          </a>
-          <a href="https://www.w3schools.com/html/" target="_blank">
-            <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-          </a>
-          <a href="https://www.w3schools.com/css/" target="_blank">
-            <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-          </a>
-          <a href="https://vuejs.org/" target="_blank">
-            <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
-          </a>
+      <td align="center" width="25%">
+        <h3>Frontend</h3>
+        <div>
+          <img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" alt="JavaScript"/>
+          <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5"/>
+          <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3"/>
+          <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue.js"/>
         </div>
       </td>
-      <td valign="top" width="33%">
-        <h3 align="center">Backend</h3>
-        <div align="center">
-          <a href="https://www.php.net/" target="_blank">
-            <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
-          </a>
-          <a href="https://laravel.com/" target="_blank">
-            <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />
-          </a>
-          <a href="https://www.mysql.com/" target="_blank">
-            <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-          </a>
-          <a href="https://www.docker.com/" target="_blank">
-            <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
-          </a>
+      <td align="center" width="25%">
+        <h3>Backend</h3>
+        <div>
+          <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP"/>
+          <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel"/>
+          <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/>
+          <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"/>
         </div>
       </td>
-      <td valign="top" width="33%">
-        <h3 align="center">DevOps</h3>
-        <div align="center">
-          <a href="https://www.linux.org/" target="_blank">
-            <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-          </a>
-          <a href="https://github.com/" target="_blank">
-            <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-          </a>
-          <a href="https://www.gnu.org/software/bash/" target="_blank">
-            <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
-          </a>
+      <td align="center" width="25%">
+        <h3>DevOps & Tools</h3>
+        <div>
+          <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker"/>
+          <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/>
+          <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux"/>
+          <img src="https://skillicons.dev/icons?i=bash" width="45" height="45" alt="Bash"/>
+        </div>
+      </td>
+      <td align="center" width="25%">
+        <h3>Design</h3>
+        <div>
+          <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma"/>
+          <img src="https://skillicons.dev/icons?i=ps" width="45" height="45" alt="Photoshop"/>
+          <img src="https://skillicons.dev/icons?i=ai" width="45" height="45" alt="Illustrator"/>
         </div>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Animated Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="75%">
-</div>
+---
 
-<!-- Projects Section with 3D Cards -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
-  FEATURED PROJECTS 
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-</h2>
+## 🎯 Featured Projects
 
 <div align="center">
   <a href="https://github.com/0Trapz/PiteuCerto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0Trapz&repo=PiteuCerto&theme=material-palenight&icon_color=DD6387&text_color=A9FEF7&bg_color=311B92&title_color=DD6387&border_color=673AB7" alt="PiteuCerto"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0Trapz&repo=PiteuCerto&theme=radical&icon_color=667eea&text_color=ffffff&bg_color=0d1117&title_color=667eea&border_color=764ba2&border_radius=10" alt="PiteuCerto"/>
   </a>
+</div>
+
+> 💡 More projects coming soon. Stay tuned for exciting updates!
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0Trapz&show_icons=true&theme=radical&icon_color=667eea&text_color=ffffff&bg_color=0d1117&title_color=667eea&border_color=764ba2&border_radius=10&hide=prs,contribs" height="180" alt="GitHub Stats" />
   
-  <br><br>
-  
-  <details>
-    <summary><b>🔮 View More Projects</b></summary>
-    <br>
-    <p>Working on exciting new projects. Stay tuned for updates!</p>
-  </details>
-</div>
-
-<!-- Animated Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="75%">
-</div>
-
-<!-- GitHub Statistics with Custom Theme -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git Stats"/>
-  GITHUB STATISTICS
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git Stats"/>
-</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=0Trapz&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=DD6387&icon_color=DD6387&text_color=A9FEF7&hide=prs" alt="Hélder Marques' GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0Trapz&langs_count=6&layout=compact&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=DD6387&text_color=A9FEF7" alt="Hélder Marques' Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Trapz&layout=compact&theme=radical&icon_color=667eea&text_color=ffffff&bg_color=0d1117&title_color=667eea&border_color=764ba2&border_radius=10&langs_count=8" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0Trapz&theme=material-palenight&bg_color=0D1117&color=A9FEF7&line=DD6387&point=A9FEF7&hide_border=true" width="95%" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0Trapz&theme=react-dark&bg_color=0d1117&color=667eea&line=764ba2&point=667eea&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=0Trapz&theme=material-palenight&hide_border=true&background=0D1117&stroke=673AB7&fire=DD6387&ring=DD6387&currStreakNum=A9FEF7&sideNums=A9FEF7&currStreakLabel=DD6387&sideLabels=DD6387" alt="GitHub Streak Stats">
+  <img src="https://streak-stats.demolab.com/?user=0Trapz&theme=dark&background=0d1117&stroke=764ba2&fire=667eea&ring=667eea&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=667eea&sideLabels=667eea&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<!-- Animated Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="75%">
-</div>
+---
 
-<!-- Currently Learning Section with Progress Bars -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="30"> 
-  CURRENTLY LEARNING 
-  <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="30">
-</h2>
+## 🎓 Currently Learning
 
-<div align="center">
-  <table>
-    <tr>
-      <td>Laravel</td>
-      <td>
-        <img src="https://progress-bar.dev/80/?width=500&color=673AB7" width="500">
-      </td>
-    </tr>
-    <tr>
-      <td>Vue.js</td>
-      <td>
-        <img src="https://progress-bar.dev/65/?width=500&color=673AB7" width="500">
-      </td>
-    </tr>
-    <tr>
-      <td>UI/UX Design</td>
-      <td>
-        <img src="https://progress-bar.dev/75/?width=500&color=673AB7" width="500">
-      </td>
-    </tr>
-    <tr>
-      <td>APIs</td>
-      <td>
-        <img src="https://progress-bar.dev/70/?width=500&color=673AB7" width="500">
-      </td>
-    </tr>
-    <tr>
-      <td>Docker</td>
-      <td>
-        <img src="https://progress-bar.dev/40/?width=500&color=673AB7" width="500">
-      </td>
-    </tr>
-  </table>
-</div>
+| Technology | Proficiency |
+|:---:|:---:|
+| **Laravel** | ![80%](https://progress-bar.dev/80/?width=120&color=667eea&title=80%25) |
+| **Vue.js** | ![70%](https://progress-bar.dev/70/?width=120&color=667eea&title=70%25) |
+| **React** | ![60%](https://progress-bar.dev/60/?width=120&color=667eea&title=60%25) |
+| **UI/UX Design** | ![80%](https://progress-bar.dev/80/?width=120&color=667eea&title=80%25) |
+| **Docker** | ![65%](https://progress-bar.dev/65/?width=120&color=667eea&title=65%25) |
 
-<!-- Animated Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="75%">
-</div>
+---
 
-<!-- Contact Section with Animated Mail -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/KDsJW9JzGRmwHQ7aeL/giphy.gif" width="30px"> 
-  CONTACT ME 
-  <img src="https://media.giphy.com/media/KDsJW9JzGRmwHQ7aeL/giphy.gif" width="30px">
-</h2>
+## 📬 Get In Touch
+
+I'm always open to collaboration and interesting projects. Feel free to reach out!
 
 <div align="center">
   <a href="mailto:eldergaw@gmail.com">
-    <img src="https://img.shields.io/badge/Email-eldergaw%40gmail.com-DD6387?style=for-the-badge&logo=gmail&logoColor=white&labelColor=673AB7"/>
+    <img src="https://img.shields.io/badge/Email-Send%20a%20Message-667eea?style=for-the-badge&logo=gmail&logoColor=white&labelColor=764ba2"/>
   </a>
   <a href="https://www.linkedin.com/in/hélderlmarques" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Hélder_Marques-DD6387?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=673AB7"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-667eea?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=764ba2"/>
+  </a>
+  <a href="https://github.com/0Trapz">
+    <img src="https://img.shields.io/badge/GitHub-View%20My%20Work-667eea?style=for-the-badge&logo=github&logoColor=white&labelColor=764ba2"/>
   </a>
 </div>
 
-<!-- Quote Section -->
+---
+
 <div align="center">
-  <br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="700" alt="Quote" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=667eea:764ba2&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
   
-  <h3>
-    <i>"The best way to predict the future is to create it."</i>
+  <p>
+    <sub><strong>Made with ❤️ by Hélder Marques</strong></sub>
     <br>
-    - Peter Drucker
-  </h3>
-</div>
-
-<!-- Calendar -->
-<div align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=0Trapz" alt="Contribution Stats" />
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0Trapz/0Trapz/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0Trapz/0Trapz/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=170&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=42&fontAlignY=80" />
-  <br>
-  <sub>Last updated: May 13, 2025 • Created with ❤️ by Hélder Marques</sub>
+    <sub>Last updated: April 2026 • Always evolving 🚀</sub>
+  </p>
 </div>
