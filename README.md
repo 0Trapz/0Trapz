@@ -1,81 +1,143 @@
-# Hélder Marques
+<div align="center">
 
-**Full Stack Developer** | **UI/UX Designer** | **Digital Creator**
+![Banner](https://img.shields.io/badge/Hélder_Marques-Digital_Creator-1a1a1a?style=for-the-badge&logo=code&logoColor=white)
 
----
-
-## About
-
-I build digital products that solve real problems. Computer Science student with expertise in full-stack web development, system architecture, and user experience design.
-
-I don't just code—I architect complete solutions from concept to deployment.
+</div>
 
 ---
 
-## Piteucerto
+## 🎯 Full Stack Developer | UI/UX Designer | Digital Innovator
 
-### The Project
-
-**Piteucerto** is my flagship product. A complete professional services management platform built from scratch with modern technologies.
-
-> A system that transforms how professionals manage their business.
-
-**Live:** [piteucerto.site](https://piteucerto.site)  
-**Code:** [github.com/0Trapz/PiteuCerto](https://github.com/0Trapz/PiteuCerto)
-
-### Features
-
-- Professional service management and scheduling
-- Client relationship management (CRM)
-- Real-time analytics and performance tracking
-- Automated workflows and notifications
-- Secure, scalable architecture
-
-### Technology
-
-**Backend:** PHP | Laravel | MySQL | RESTful APIs  
-**Frontend:** Vue.js | JavaScript | HTML5 | CSS3  
-**Infrastructure:** Docker | Linux | Bash  
-**Design:** Figma | User Research & Testing
-
-### My Role
-
-**Architect** — System design and technical decisions  
-**Full-Stack Developer** — Complete implementation  
-**UI/UX Designer** — Interface and user experience
+I architect and build digital solutions that solve real problems. Specialized in creating scalable web platforms with exceptional user experiences.
 
 ---
 
-## Skills
+## 🚀 **PITEUCERTO** — My Flagship Product
 
-- **Backend:** PHP, Laravel, Node.js, MySQL, Database Architecture
-- **Frontend:** Vue.js, JavaScript, HTML5, CSS3, Responsive Design
-- **DevOps:** Docker, Linux, Git, CI/CD
-- **Design:** UI/UX Design, Figma, Prototyping, User Research
+<div align="center">
+
+### **The Platform That Revolutionizes Professional Services**
+
+A complete, production-grade system for managing professional services. Built from the ground up with enterprise-level architecture.
+
+</div>
+
+### Why Piteucerto?
+
+Professional service management is broken. Multiple disconnected systems, poor communication, lost opportunities, manual workflows. 
+
+**Piteucerto solves this completely.**
+
+### What Makes It Exceptional
+
+| Feature | Benefit |
+|---------|---------|
+| **Service Management** | Complete control over services, pricing, and availability |
+| **Client Dashboard** | Clients manage their own interactions and bookings |
+| **Real-time Analytics** | Instant visibility into business performance |
+| **Automated Workflows** | Smart automation that saves countless hours |
+| **Enterprise Security** | Bank-grade protection for sensitive data |
+| **Stunning UI** | Every pixel designed for user delight |
+
+### The Technical Foundation
+
+Built with **production-grade architecture** using modern technologies:
+
+```
+┌─────────────────────────────────────────────────────┐
+│ FRONTEND       │ Vue.js, JavaScript, HTML5, CSS3    │
+│ BACKEND        │ Laravel, PHP, MySQL, APIs          │
+│ INFRASTRUCTURE │ Docker, Linux, Redis, Caching      │
+│ DESIGN         │ Figma-first approach, User Testing │
+└─────────────────────────────────────────────────────┘
+```
+
+### My Complete Ownership
+
+🏗️ **System Architect** — Designed the entire infrastructure  
+💻 **Full-Stack Developer** — Implemented every layer  
+🎨 **UI/UX Designer** — Crafted every interface  
+🔒 **DevOps Engineer** — Managed deployment & infrastructure  
+
+**This is not just a project. This is a complete product.**
 
 ---
 
-## GitHub Stats
+### 🔗 **[Explore Piteucerto](https://piteucerto.site)**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0Trapz&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0Trapz&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&title_color=58a6ff&hide_border=true&langs_count=6)
+Visit the live platform and experience professional service management reimagined.
 
 ---
 
-## Currently Working On
+## 💎 My Expertise
 
-Scaling Piteucerto and exploring modern web technologies to build better products.
+### Backend Architecture
+- PHP & Laravel (Expert)
+- Database Design & Optimization
+- RESTful API Development  
+- Microservices Patterns
+- Security & Scalability
+
+### Frontend Excellence
+- Vue.js & Modern JavaScript
+- Responsive Design
+- Component Architecture
+- Performance Optimization
+- User Experience Design
+
+### DevOps & Infrastructure
+- Docker & Containerization
+- Linux System Administration
+- Git Workflows & CI/CD
+- Performance Monitoring
+- Cloud Deployment
+
+### Product Design
+- UI/UX Design & Figma
+- User Research & Testing
+- Wireframing & Prototyping
+- Design Systems
+- Product Strategy
 
 ---
 
-## Let's Connect
+## 📊 GitHub Activity
 
-- **Email:** [eldergaw@gmail.com](mailto:eldergaw@gmail.com)
-- **LinkedIn:** [Hélder Marques](https://www.linkedin.com/in/hélderlmarques)
-- **Website:** [piteucerto.site](https://piteucerto.site)
-- **GitHub:** [@0Trapz](https://github.com/0Trapz)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0Trapz&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=21262d&text_color=c9d1d9&icon_color=1f6feb&title_color=1f6feb&hide=prs&hide_border=true&custom_title=GitHub%20Activity)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0Trapz&layout=compact&theme=github_dark&bg_color=0d1117&border_color=21262d&text_color=c9d1d9&title_color=1f6feb&hide_border=true&langs_count=8)
+
+</div>
 
 ---
 
-**© 2026 Hélder Marques**
+## 🎓 Currently Building
+
+Scaling **Piteucerto** to serve thousands of professionals worldwide. Exploring advanced technologies like real-time collaboration, AI-powered insights, and mobile-first experiences.
+
+---
+
+## 📮 Let's Build Something Great
+
+I'm always interested in collaborating on meaningful projects.
+
+<div align="center">
+
+**Email** → [eldergaw@gmail.com](mailto:eldergaw@gmail.com)  
+**Website** → [piteucerto.site](https://piteucerto.site)  
+**LinkedIn** → [Hélder Marques](https://www.linkedin.com/in/hélderlmarques)  
+**GitHub** → [@0Trapz](https://github.com/0Trapz)
+
+</div>
+
+---
+
+<div align="center">
+
+**Crafted by Hélder Marques** | Building products that matter
+
+© 2026 — All Rights Reserved
+
+</div>
